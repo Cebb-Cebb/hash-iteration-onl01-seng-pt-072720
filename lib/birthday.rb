@@ -16,7 +16,7 @@ def age_appropriate_birthday(birthday_kids)
     new_age = []
     birthday_kids.each do |suite ,name|
       if name < 12 
-        puts ""
+       
 end
 
 def select_winner(passengers)
